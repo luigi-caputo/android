@@ -1,0 +1,97 @@
+android.support.v4.app.BackStackState
+android.support.v4.app.BackStackState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.Fragment$SavedState
+android.support.v4.app.Fragment$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentManagerState
+android.support.v4.app.FragmentManagerState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentState
+android.support.v4.app.FragmentState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentTabHost: void setOnTabChangedListener(android.widget.TabHost$OnTabChangeListener)
+android.support.v4.app.FragmentTabHost$SavedState
+android.support.v4.app.FragmentTabHost$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.content.ModernAsyncTask$Status: android.support.v4.content.ModernAsyncTask$Status[] values()
+android.support.v4.content.ModernAsyncTask$Status: android.support.v4.content.ModernAsyncTask$Status valueOf(java.lang.String)
+android.support.v4.view.PagerTabStrip: void setTabIndicatorColor(int)
+android.support.v4.view.PagerTabStrip: void setTabIndicatorColorResource(int)
+android.support.v4.view.PagerTabStrip: int getTabIndicatorColor()
+android.support.v4.view.PagerTabStrip: void setTextSpacing(int)
+android.support.v4.view.PagerTabStrip: void setBackgroundDrawable(android.graphics.drawable.Drawable)
+android.support.v4.view.PagerTabStrip: void setBackgroundColor(int)
+android.support.v4.view.PagerTabStrip: void setBackgroundResource(int)
+android.support.v4.view.PagerTabStrip: void setDrawFullUnderline(boolean)
+android.support.v4.view.PagerTabStrip: boolean getDrawFullUnderline()
+android.support.v4.view.PagerTabStrip: int getMinHeight()
+android.support.v4.view.PagerTitleStrip: void setSingleLineAllCaps(android.widget.TextView)
+android.support.v4.view.PagerTitleStrip: void setTextSpacing(int)
+android.support.v4.view.PagerTitleStrip: int getTextSpacing()
+android.support.v4.view.PagerTitleStrip: void setNonPrimaryAlpha(float)
+android.support.v4.view.PagerTitleStrip: void setTextColor(int)
+android.support.v4.view.PagerTitleStrip: void setGravity(int)
+android.support.v4.view.PagerTitleStrip: int getMinHeight()
+android.support.v4.view.ViewPager: void setScrollState(int)
+android.support.v4.view.ViewPager: void setAdapter(android.support.v4.view.PagerAdapter)
+android.support.v4.view.ViewPager: android.support.v4.view.PagerAdapter getAdapter()
+android.support.v4.view.ViewPager: void setOnAdapterChangeListener(android.support.v4.view.ViewPager$OnAdapterChangeListener)
+android.support.v4.view.ViewPager: void setCurrentItem(int)
+android.support.v4.view.ViewPager: int getCurrentItem()
+android.support.v4.view.ViewPager: void setOnPageChangeListener(android.support.v4.view.ViewPager$OnPageChangeListener)
+android.support.v4.view.ViewPager: void setChildrenDrawingOrderEnabledCompat(boolean)
+android.support.v4.view.ViewPager: int getOffscreenPageLimit()
+android.support.v4.view.ViewPager: void setOffscreenPageLimit(int)
+android.support.v4.view.ViewPager: void setPageMargin(int)
+android.support.v4.view.ViewPager: int getPageMargin()
+android.support.v4.view.ViewPager: void setPageMarginDrawable(android.graphics.drawable.Drawable)
+android.support.v4.view.ViewPager: void setPageMarginDrawable(int)
+android.support.v4.view.ViewPager: void setScrollingCacheEnabled(boolean)
+android.support.v4.view.ViewPager$SavedState
+android.support.v4.view.ViewPager$SavedState: android.os.Parcelable$Creator CREATOR
+gpsoft.gravitors.About
+gpsoft.gravitors.About: About()
+gpsoft.gravitors.Gravitor
+gpsoft.gravitors.Gravitor: Gravitor()
+gpsoft.gravitors.R$color: int Red
+gpsoft.gravitors.R$dimen: int activity_horizontal_margin
+gpsoft.gravitors.R$dimen: int activity_vertical_margin
+gpsoft.gravitors.R$drawable: int backgroud
+gpsoft.gravitors.R$drawable: int ball
+gpsoft.gravitors.R$drawable: int button
+gpsoft.gravitors.R$drawable: int gameover
+gpsoft.gravitors.R$drawable: int hole
+gpsoft.gravitors.R$drawable: int ic_launcher
+gpsoft.gravitors.R$drawable: int intro
+gpsoft.gravitors.R$drawable: int platform
+gpsoft.gravitors.R$drawable: int scoreboard
+gpsoft.gravitors.R$drawable: int star
+gpsoft.gravitors.R$drawable: int won
+gpsoft.gravitors.R$id: int action_settings
+gpsoft.gravitors.R$id: int btnClear
+gpsoft.gravitors.R$id: int lstvScores
+gpsoft.gravitors.R$id: int txtAbout
+gpsoft.gravitors.R$id: int txtAboutText
+gpsoft.gravitors.R$layout: int about
+gpsoft.gravitors.R$layout: int activity_gravitor
+gpsoft.gravitors.R$layout: int scores
+gpsoft.gravitors.R$menu: int gravitor
+gpsoft.gravitors.R$raw: int ball
+gpsoft.gravitors.R$raw: int hole
+gpsoft.gravitors.R$raw: int pencil
+gpsoft.gravitors.R$raw: int platform
+gpsoft.gravitors.R$raw: int select
+gpsoft.gravitors.R$raw: int star
+gpsoft.gravitors.R$string: int AboutText
+gpsoft.gravitors.R$string: int AboutTextBody
+gpsoft.gravitors.R$string: int ButtonClear
+gpsoft.gravitors.R$string: int about_win
+gpsoft.gravitors.R$string: int action_settings
+gpsoft.gravitors.R$string: int app_name
+gpsoft.gravitors.R$string: int score
+gpsoft.gravitors.R$style: int AppBaseTheme
+gpsoft.gravitors.R$style: int AppTheme
+gpsoft.gravitors.Scores
+gpsoft.gravitors.Scores: Scores()
+gpsoft.gravitors.Screen: android.view.Surface getSurface()
+gpsoft.gravitors.Screen: android.graphics.Rect getSurfaceFrame()
+gpsoft.gravitors.Screen: void setFormat(int)
+gpsoft.gravitors.Screen: void setType(int)
+gpsoft.gravitors.Screen$State: gpsoft.gravitors.Screen$State[] values()
+gpsoft.gravitors.Screen$State: gpsoft.gravitors.Screen$State valueOf(java.lang.String)

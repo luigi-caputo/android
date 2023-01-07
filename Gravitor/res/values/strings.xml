@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Gravitor</string>
+    <string name="action_settings">Settings</string>
+    <string name="about_win">About &amp; How to play</string>
+    <string name="AboutText">--Created By GicoPiro--</string>
+    <string name="AboutTextBody">This game has been created from scratch using no external engines or APIs. Draw a line to lead the ball to all the platforms and once you activated them all,
+let the ball enter in the hole ! 
+Try also to collect as many stars as you can, they will increase your score. Good Luck !</string>
+    <color name="Red">#FF0055</color>
+    <string name="score">High Scores</string>
+    <string name="ButtonClear">Clear list</string>
+    
+</resources>

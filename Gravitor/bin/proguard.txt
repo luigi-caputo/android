@@ -1,0 +1,9 @@
+# view AndroidManifest.xml #generated:26
+-keep class gpsoft.gravitors.About { <init>(...); }
+
+# view AndroidManifest.xml #generated:15
+-keep class gpsoft.gravitors.Gravitor { <init>(...); }
+
+# view AndroidManifest.xml #generated:33
+-keep class gpsoft.gravitors.Scores { <init>(...); }
+
