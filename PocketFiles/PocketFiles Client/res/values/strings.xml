@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Pocket Files</string>
+    <string name="action_settings">MENU TEST !!</string>
+    <string name="labelIP">Ip Address: </string>
+    <string name="labelPort">Port: </string>
+    <string name="butConnect">Connect</string>
+    <string name="butCancel">Cancel</string>
+    <string name="general">icon</string>
+    <string name="butFile">Browse</string>
+    <string name="chkSettings">Save settings</string>
+    <string name="butStart">Start</string>
+    <string name="labelState">State:</string>
+    <string name="labelAbout">GP Soft</string>
+    
+    <color name="gray">#7A7A7A</color>
+    <color name="white">#FFFFFF</color>
+    <color name="cyan">#00DDFF</color>
+   
+</resources>
